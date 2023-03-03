@@ -3,11 +3,33 @@
     "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg"
   ],
   "slides": [{
-    "number": 0.1,
-    "slide": true,
-    "intro": true,
-    "title": "Introduction",
-    "subTitle": "The Basics",
-    "byLine": "Nathan Michalewicz"
-  }]
+      "number": 0.1,
+      "slide": true,
+      "intro": true,
+      "title": "Introduction",
+      "subTitle": "The Basics",
+      "byLine": "Nathan Michalewicz"
+    },
+    {
+      "number": 1.1,
+      "slide": true,
+      "split": true,
+      "title": "The Basics",
+      "subTitle": "The Basics",
+      "text": [{
+          "text": "This is a basic slide",
+          "color": "black"
+        },
+        {
+          "tex": "This is a basic slide",
+          "color": "black"
+        },
+        {
+          "text": "This is a basic slide",
+          "color": "black"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg"
+    }
+  ]
 }
