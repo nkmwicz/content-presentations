@@ -1,0 +1,11 @@
+{
+  "images": [],
+  "slides": [{
+    "number": 0.1,
+    "slide": true,
+    "intro": true,
+    "title": "Introduction",
+    "subTitle": "The Basics",
+    "byLine": "Nathan Michalewicz"
+  }]
+}
