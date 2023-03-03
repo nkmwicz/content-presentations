@@ -29,7 +29,10 @@
           "color": "black"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg"
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+        "description": "This is a basic slide"
+      }
     }
   ]
 }
