@@ -1,5 +1,7 @@
 {
-  "images": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+  ],
   "slides": [{
     "number": 0.1,
     "slide": true,
