@@ -6,8 +6,8 @@
       "number": 0.1,
       "slide": true,
       "intro": true,
-      "title": "Introduction",
-      "subTitle": "The Basics",
+      "title": "Rethinking France's Political Community",
+      "subTitle": "Mapping French Ambassadors in the Sixteenth Century",
       "byLine": "Nathan Michalewicz"
     },
     {
@@ -26,6 +26,26 @@
         },
         {
           "text": "This is a basic slide",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+        "description": "This is a basic slide"
+      }
+    },
+    {
+      "number": 1.2,
+      "slide": true,
+      "split": true,
+      "title": "The other Basics",
+      "subTitle": "The Subtitle",
+      "text": [{
+          "text": "This is a basic slide",
+          "color": "black"
+        },
+        {
+          "tex": "This is a basic slide",
           "color": "black"
         }
       ],
