@@ -53,6 +53,28 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
         "description": "This is a basic slide"
       }
+    }, {
+      "number": 1.2,
+      "slide": true,
+      "centered": true,
+      "title": "The other Basics",
+      "subTitle": "The Subtitle",
+      "images": [{
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+          "flex": 1,
+          "description": "This is a basic slide"
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+          "flex": 2,
+          "description": "This is a basic slide"
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+          "flex": 1,
+          "description": "This is a basic slide"
+        }
+      ]
     }
   ]
 }
