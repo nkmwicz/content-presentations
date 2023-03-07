@@ -1,6 +1,9 @@
 {
   "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
+    "https://d.gr-assets.com/books/1328869068l/1313744.jpg",
+    "https://m.media-amazon.com/images/I/51vcMm+rmJL.jpg",
+    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411331844i/478358.jpg"
   ],
   "slides": [{
       "number": 0.1,
@@ -13,26 +16,23 @@
     {
       "number": 1.1,
       "slide": true,
-      "split": true,
-      "title": "The Basics",
-      "subTitle": "The Basics",
-      "text": [{
-          "text": "This is a basic slide",
-          "color": "black"
+      "centered": true,
+      "title": "Historiography of The European State System",
+      "images": [{
+          "image": "https://d.gr-assets.com/books/1328869068l/1313744.jpg",
+          "description": "Garrett Mattingly, Renaissance Diplomacy",
+          "alt": "Image of the book Renaissance Diplomacy"
         },
         {
-          "text": "This is a basic slide",
-          "color": "black"
-        },
-        {
-          "text": "This is a basic slide",
-          "color": "black"
+          "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411331844i/478358.jpg",
+          "description": "Anderson, The Origins of the Modern European State System",
+          "alt": "Image of the book The Origins of the Modern European State System"
+        } {
+          "image": "https://m.media-amazon.com/images/I/51vcMm+rmJL.jpg",
+          "description": "Bély, Espions et Ambassadeurs",
+          "alt": "Image of the book Espions et Ambassadeurs"
         }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
-        "description": "This is a basic slide"
-      }
+      ]
     },
     {
       "number": 1.2,
