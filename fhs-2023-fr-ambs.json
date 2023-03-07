@@ -3,7 +3,10 @@
     "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
     "https://d.gr-assets.com/books/1328869068l/1313744.jpg",
     "https://m.media-amazon.com/images/I/51vcMm+rmJL.jpg",
-    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411331844i/478358.jpg"
+    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411331844i/478358.jpg",
+    "https://images.routledge.com/common/jackets/crclarge/978036787/9780367877569.jpg",
+    "https://m.media-amazon.com/images/I/51r4wHrb6UL.jpg",
+    "https://assets.cambridge.org/97811075/15789/cover/9781107515789.jpg"
   ],
   "slides": [{
       "number": 0.1,
@@ -14,7 +17,7 @@
       "byLine": "Nathan Michalewicz"
     },
     {
-      "number": 1.1,
+      "number": 1.0,
       "slide": true,
       "centered": true,
       "title": "Historiography of The European State System",
@@ -27,7 +30,8 @@
           "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411331844i/478358.jpg",
           "description": "Anderson, The Origins of the Modern European State System",
           "alt": "Image of the book The Origins of the Modern European State System"
-        }, {
+        },
+        {
           "image": "https://m.media-amazon.com/images/I/51vcMm+rmJL.jpg",
           "description": "Bély, Espions et Ambassadeurs",
           "alt": "Image of the book Espions et Ambassadeurs"
@@ -35,26 +39,30 @@
       ]
     },
     {
-      "number": 1.2,
+      "number": 2.0,
       "slide": true,
-      "split": true,
-      "title": "The other Basics",
-      "subTitle": "The Subtitle",
-      "text": [{
-          "text": "This is a basic slide",
-          "color": "black"
+      "centered": true,
+      "title": "The Practices of Diplomacy",
+      "subTitle": "",
+      "images": [{
+          "image": "https://images.routledge.com/common/jackets/crclarge/978036787/9780367877569.jpg",
+          "description": "Tracy Sowerby, Practices of Diplomacy in the Early Modern World",
+          "alt": "Image of the book, Practices of Diplomacy by Tracy Sowerby."
         },
         {
-          "tex": "This is a basic slide",
-          "color": "black"
+          "image": "https://m.media-amazon.com/images/I/51r4wHrb6UL.jpg",
+          "description": "Goffman, Ottoman Empire and Early Modern Europe",
+          "alt": "Image of the book, Ottoman Empire and Early Modern Europe."
+        },
+        {
+          "image": "https://assets.cambridge.org/97811075/15789/cover/9781107515789.jpg",
+          "description": "Fletcher, Diplomacy in Renaissance Rome",
+          "alt": "Image of the Book Diplomacy in Renaissance Rome."
         }
-      ],
-      "image": {
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
-        "description": "This is a basic slide"
-      }
-    }, {
-      "number": 1.3,
+      ]
+    },
+    {
+      "number": 3.0,
       "slide": true,
       "centered": true,
       "title": "The other Basics",
