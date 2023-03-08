@@ -250,6 +250,20 @@
       "map": true,
       "start": 1520,
       "end": 1525
+    },
+    {
+      "number": 7.2,
+      "map": true,
+      "start": 1520,
+      "end": 1525,
+      "place": "Swiss Cantons"
+    },
+    {
+      "number": 7.3,
+      "map": true,
+      "start": 1520,
+      "end": 1525,
+      "place": "Portugal"
     }
   ]
 }
