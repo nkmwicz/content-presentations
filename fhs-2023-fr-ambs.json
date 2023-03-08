@@ -264,6 +264,18 @@
       "start": 1520,
       "end": 1525,
       "place": "Portugal"
+    },
+    {
+      "number": 8.1,
+      "map": true,
+      "start": 1515,
+      "end": 1525
+    },
+    {
+      "number": 8.2,
+      "map": true,
+      "start": 1525,
+      "end": 1535
     }
   ]
 }
