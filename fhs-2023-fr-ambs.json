@@ -224,6 +224,26 @@
       "map": true,
       "start": 1547,
       "end": 1547
+    },
+    {
+      "number": 6.1,
+      "map": true,
+      "start": 1515,
+      "end": 1520
+    },
+    {
+      "number": 6.2,
+      "map": true,
+      "start": 1515,
+      "end": 1520,
+      "place": "England"
+    },
+    {
+      "number": 6.3,
+      "map": true,
+      "start": 1515,
+      "end": 1520,
+      "place": "Holy Roman Empire"
     }
   ]
 }
