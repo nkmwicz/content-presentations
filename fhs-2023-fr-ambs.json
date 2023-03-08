@@ -243,7 +243,13 @@
       "map": true,
       "start": 1515,
       "end": 1520,
-      "place": "Holy Roman Empire"
+      "place": "Habsburg"
+    },
+    {
+      "number": 7.1,
+      "map": true,
+      "start": 1520,
+      "end": 1525
     }
   ]
 }
