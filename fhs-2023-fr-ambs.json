@@ -74,12 +74,17 @@
           "color": "black"
         },
         {
-          "text": "The Core of France's geopolitical network developed late, around 1535.",
-          "color": "lightgrey"
-        },
-        {
-          "text": "The Axis of that Network: England, Swiss Cantons, Rome, and the Ottoman Empire.",
-          "color": "lightgrey"
+          "text": "two Main Arguments:",
+          "color": "lightgrey",
+          "children": [{
+              "text": "The Core of France's geopolitical network developed late, around 1535.",
+              "color": "lightgrey"
+            },
+            {
+              "text": "The Axis of that Network: England, Swiss Cantons, Rome, and the Ottoman Empire.",
+              "color": "lightgrey"
+            }
+          ]
         }
       ]
     },
@@ -94,12 +99,17 @@
           "color": "lightgrey"
         },
         {
-          "text": "The Core of France's geopolitical network developed late, around 1535.",
-          "color": "black"
-        },
-        {
-          "text": "The Axis of that Network: England, Swiss Cantons, Rome, and the Ottoman Empire.",
-          "color": "lightgrey"
+          "text": "two Main Arguments:",
+          "color": "black",
+          "children": [{
+              "text": "The Core of France's geopolitical network developed late, around 1535.",
+              "color": "black"
+            },
+            {
+              "text": "The Axis of that Network: England, Swiss Cantons, Rome, and the Ottoman Empire.",
+              "color": "lightgrey"
+            }
+          ]
         }
       ]
     },
@@ -115,10 +125,10 @@
         },
         {
           "text": "two Main Arguments:",
-          "color": "lightgrey",
+          "color": "black",
           "children": [{
               "text": "The Core of France's geopolitical network developed late, around 1535.",
-              "color": "black"
+              "color": "lightgrey"
             },
             {
               "text": "The Axis of that Network: England, Swiss Cantons, Rome, and the Ottoman Empire.",
