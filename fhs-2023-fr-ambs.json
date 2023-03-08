@@ -6,7 +6,9 @@
     "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411331844i/478358.jpg",
     "https://images.routledge.com/common/jackets/crclarge/978036787/9780367877569.jpg",
     "https://m.media-amazon.com/images/I/51r4wHrb6UL.jpg",
-    "https://assets.cambridge.org/97811075/15789/cover/9781107515789.jpg"
+    "https://assets.cambridge.org/97811075/15789/cover/9781107515789.jpg",
+    "https://www.clipartkey.com/mpngs/m/50-503364_emoji-emojisticker-sticker-stickers-confused-smiley-emoji-question.png",
+    "https://gallica.bnf.fr/ark:/12148/bpt6k92325g/f18.highres"
   ],
   "slides": [{
       "number": 0.1,
@@ -62,28 +64,146 @@
       ]
     },
     {
-      "number": 3.0,
+      "number": 3.1,
       "slide": true,
       "centered": true,
-      "title": "The other Basics",
-      "subTitle": "The Subtitle",
-      "images": [{
-          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
-          "flex": 1,
-          "description": "This is a basic slide"
+      "title": "France's Geopolitical Community through Ambassadors",
+      "subTitle": "Some Arguments",
+      "text": [{
+          "text": "French ambassadors: the infrastructure of France's geopolitical network.",
+          "color": "black"
         },
         {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
-          "flex": 2,
-          "description": "This is a basic slide"
+          "text": "The Core of France's geopolitical network developed late, around 1535.",
+          "color": "lightgrey"
         },
         {
-          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Barbarossa_fleet_wintering_in_Toulon_1543.jpg",
-          "flex": 1,
-          "description": "This is a basic slide"
+          "text": "The Axis of that Network: England, Swiss Cantons, Rome, and the Ottoman Empire.",
+          "color": "lightgrey"
         }
       ]
-    }, {
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "centered": true,
+      "title": "France's Geopolitical Community through Ambassadors",
+      "subTitle": "Some Arguments",
+      "text": [{
+          "text": "French ambassadors: the infrastructure of France's geopolitical network.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The Core of France's geopolitical network developed late, around 1535.",
+          "color": "black"
+        },
+        {
+          "text": "The Axis of that Network: England, Swiss Cantons, Rome, and the Ottoman Empire.",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "centered": true,
+      "title": "France's Geopolitical Community through Ambassadors",
+      "subTitle": "Some Arguments",
+      "text": [{
+          "text": "French ambassadors: the infrastructure of France's geopolitical network.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "two Main Arguments:",
+          "color": "lightgrey",
+          "children": [{
+              "text": "The Core of France's geopolitical network developed late, around 1535.",
+              "color": "black"
+            },
+            {
+              "text": "The Axis of that Network: England, Swiss Cantons, Rome, and the Ottoman Empire.",
+              "color": "black"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "split": true,
+      "title": "Sources, Limitations, and Methodology",
+      "subTitle": "The boring stuff",
+      "text": [{
+          "text": "Sources: Vindry and others",
+          "color": "black"
+        },
+        {
+          "text": "Limitation: Some locations not fully represented at some times (e.g. the Ottoman Empire)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Organizing Principle: Years of Diplomatic Representation",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://gallica.bnf.fr/ark:/12148/bpt6k92325g/f18.highres",
+        "description": "A page from Vindry's book",
+        "alt": "Image of a book page."
+      }
+    },
+    {
+      "number": 4.2,
+      "slide": true,
+      "split": true,
+      "title": "Sources, Limitations, and Methodology",
+      "subTitle": "The boring stuff",
+      "text": [{
+          "text": "Sources: Vindry and others",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Limitation: Some locations not fully represented during some periods (e.g. Rome and England)",
+          "color": "black"
+        },
+        {
+          "text": "Organizing Principle: Years of Diplomatic Representation",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.clipartkey.com/mpngs/m/50-503364_emoji-emojisticker-sticker-stickers-confused-smiley-emoji-question.png",
+        "description": "",
+        "alt": "Confused Emoji"
+      }
+    },
+    {
+      "number": 4.3,
+      "slide": true,
+      "split": true,
+      "title": "Sources, Limitations, and Methodology",
+      "subTitle": "The boring stuff",
+      "text": [{
+          "text": "Sources: Vindry and others",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Limitation: Some locations not fully represented at some times (e.g. the Ottoman Empire)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Organizing Principle: Years of Diplomatic Representation",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "",
+        "description": "",
+        "alt": ""
+      }
+    },
+    {
       "number": 1.3,
       "map": true,
       "start": 1557,
