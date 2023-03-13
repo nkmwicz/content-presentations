@@ -324,6 +324,12 @@
       "map": true,
       "start": 1555,
       "end": 1560
+    },
+    {
+      "number": 10.6,
+      "map": true,
+      "start": 1535,
+      "end": 1560
     }
   ]
 }
