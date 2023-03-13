@@ -330,6 +330,26 @@
       "map": true,
       "start": 1535,
       "end": 1560
+    },
+    {
+      "number": 11.1,
+      "map": true,
+      "start": 1559,
+      "end": 1600
+    },
+    {
+      "number": 12.1,
+      "map": true,
+      "start": 1559,
+      "end": 1600,
+      "place": "Spain"
+    },
+    {
+      "number": 12.2,
+      "map": true,
+      "start": 1559,
+      "end": 1600,
+      "place": "Netherldands"
     }
   ]
 }
