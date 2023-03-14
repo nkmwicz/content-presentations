@@ -350,6 +350,28 @@
       "start": 1559,
       "end": 1600,
       "place": "Netherlands"
+    },
+    {
+      "number": 13.1,
+      "slide": true,
+      "child": true,
+      "title": "Conclusion",
+      "subTitle": "What does this all mean?",
+      "text": [{
+          "text": "The map shows the number of years that each country had diplomatic representation in the Netherlands during the period 1515-1600.",
+          "color": "black"
+        },
+        {
+          "text": "The map shows the number of years that each country had diplomatic representation in the Netherlands during the period 1515-1600.",
+          "color": "black"
+        },
+        {
+          "text": "The map shows the number of years that each country had diplomatic representation in the Netherlands during the period 1515-1600.",
+          "color": "black"
+        }
+      ],
+      "start": 1559,
+      "end": 1600,
     }
   ]
 }
