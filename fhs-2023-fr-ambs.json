@@ -312,13 +312,13 @@
       "number": 10.6,
       "slide": true,
       "child": true,
-      "title": "Something about the Ottoman Empire",
+      "title": "Consistency in Representation",
       "text": [{
-          "text": "Ottoman Empire and Swiss Cantons the top 2 for most years of diplomatic representation.",
+          "text": "Swiss Cantonsand Ottomans, more than one standard deviation above the mean.",
           "color": "black"
         },
         {
-          "text": "Something else about the Ottoman Empire",
+          "text": "Same Five States Receive the most Representation.",
           "color": "lightgrey"
         }
       ],
@@ -329,13 +329,13 @@
       "number": 10.7,
       "slide": true,
       "child": true,
-      "title": "Something about the Ottoman Empire",
+      "title": "Consistency in Representation",
       "text": [{
-          "text": "Ottoman Empire and Swiss Cantons the top 2 for most years of diplomatic representation.",
+          "text": "Swiss Cantonsand Ottomans, more than one standard deviation above the mean.",
           "color": "lightgrey"
         },
         {
-          "text": "Something else about the Ottoman Empire",
+          "text": "Same Five States Receive the most Representation.",
           "color": "black"
         }
       ],
