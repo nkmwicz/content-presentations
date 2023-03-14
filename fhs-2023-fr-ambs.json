@@ -337,7 +337,7 @@
         },
         {
           "text": "Something else about the Ottoman Empire",
-          "color": "black"
+          "color": "lightgrey"
         }
       ],
       "start": 1535,
@@ -350,7 +350,7 @@
       "title": "Something about the Ottoman Empire",
       "text": [{
           "text": "Ottoman Empire and Swiss Cantons the top 2 for most years of diplomatic representation.",
-          "color": "black"
+          "color": "lightgrey"
         },
         {
           "text": "Something else about the Ottoman Empire",
@@ -379,6 +379,12 @@
       "start": 1559,
       "end": 1600,
       "place": "Netherlands"
+    },
+    {
+      "number": 12.3,
+      "map": true,
+      "start": 1560,
+      "end": 1570
     },
     {
       "number": 13.1,
