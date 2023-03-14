@@ -8,7 +8,8 @@
     "https://m.media-amazon.com/images/I/51r4wHrb6UL.jpg",
     "https://assets.cambridge.org/97811075/15789/cover/9781107515789.jpg",
     "https://www.nicepng.com/png/detail/148-1480713_confused-look-png-image-clipart-free-disappointed-emoji.png",
-    "https://gallica.bnf.fr/ark:/12148/bpt6k92325g/f18.highres"
+    "https://gallica.bnf.fr/ark:/12148/bpt6k92325g/f18.highres",
+    "https://nathanmichalewicz.org/omeka/files/original/2190cc0eef5a90b3f763f85d45c789ba.png"
   ],
   "slides": [{
       "number": 0.1,
@@ -208,9 +209,9 @@
         }
       ],
       "image": {
-        "image": "",
+        "image": "https://nathanmichalewicz.org/omeka/files/original/2190cc0eef5a90b3f763f85d45c789ba.png",
         "description": "",
-        "alt": ""
+        "alt": "Image of three people in one year equaling one person in three years."
       }
     },
     {
