@@ -389,14 +389,14 @@
     {
       "number": 12.4,
       "map": true,
-      "start": 1560,
-      "end": 1570
+      "start": 1570,
+      "end": 1600
     },
     {
       "number": 12.5,
       "map": true,
-      "start": 1560,
-      "end": 1570,
+      "start": 1570,
+      "end": 1600,
       "place": "Ottoman Empire"
     },
     {
