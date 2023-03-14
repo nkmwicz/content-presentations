@@ -387,6 +387,19 @@
       "end": 1570
     },
     {
+      "number": 12.4,
+      "map": true,
+      "start": 1560,
+      "end": 1570
+    },
+    {
+      "number": 12.5,
+      "map": true,
+      "start": 1560,
+      "end": 1570,
+      "place": "Ottoman Empire"
+    },
+    {
       "number": 13.1,
       "slide": true,
       "child": true,
