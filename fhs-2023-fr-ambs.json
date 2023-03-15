@@ -350,24 +350,62 @@
     {
       "number": 13.1,
       "slide": true,
-      "child": true,
+      "centered": true,
       "title": "Conclusion",
-      "subTitle": "What does this all mean?",
+      "subTitle": "Some Structural Trends",
       "text": [{
-          "text": "The map shows the number of years that each country had diplomatic representation in the Netherlands during the period 1515-1600.",
+          "text": "Diplomatic network developed after the Battle of Pavia (1525)",
           "color": "black"
         },
         {
-          "text": "The map shows the number of years that each country had diplomatic representation in the Netherlands during the period 1515-1600.",
+          "text": "The core of the network was stable throughout the sixteenth century: England, Swiss Cantons, Venice, Rome, and the Ottoman Empire.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The network was remarkably southern and Mediterranean.",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 13.2,
+      "slide": true,
+      "centered": true,
+      "title": "Conclusion",
+      "subTitle": "Some Structural Trends",
+      "text": [{
+          "text": "Diplomatic network developed after the Battle of Pavia (1525)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The core of the network was stable throughout the sixteenth century: England, Swiss Cantons, Venice, Rome, and the Ottoman Empire.",
           "color": "black"
         },
         {
-          "text": "The map shows the number of years that each country had diplomatic representation in the Netherlands during the period 1515-1600.",
+          "text": "The network was remarkably southern and Mediterranean.",
+          "color": "lightgrey"
+        }
+      ]
+    },
+    {
+      "number": 13.3,
+      "slide": true,
+      "centered": true,
+      "title": "Conclusion",
+      "subTitle": "Some Structural Trends",
+      "text": [{
+          "text": "Diplomatic network developed after the Battle of Pavia (1525)",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The core of the network was stable throughout the sixteenth century: England, Swiss Cantons, Venice, Rome, and the Ottoman Empire.",
+          "color": "lightgrey"
+        },
+        {
+          "text": "The network was remarkably southern and Mediterranean.",
           "color": "black"
         }
-      ],
-      "start": 1559,
-      "end": 1600
+      ]
     }
   ]
 }
