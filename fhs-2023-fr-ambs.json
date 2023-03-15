@@ -314,16 +314,16 @@
       "child": true,
       "title": "Consistency in Representation",
       "text": [{
-          "text": "Swiss Cantonsand Ottomans, more than one standard deviation above the mean.",
+          "text": "Swiss Cantons and Ottomans, more than one standard deviation above the mean.",
           "color": "black"
         },
         {
-          "text": "Same Five States Receive the most Representation.",
+          "text": "Same States Receive the most Representation.",
           "color": "lightgrey"
         }
       ],
       "start": 1535,
-      "end": 1560
+      "end": 1559
     },
     {
       "number": 10.7,
@@ -331,15 +331,15 @@
       "child": true,
       "title": "Consistency in Representation",
       "text": [{
-          "text": "Swiss Cantonsand Ottomans, more than one standard deviation above the mean.",
+          "text": "Swiss Cantons and Ottomans, more than one standard deviation above the mean.",
           "color": "lightgrey"
         },
         {
-          "text": "Same Five States Receive the most Representation.",
+          "text": "Same States Receive the most Representation.",
           "color": "black"
         }
       ],
-      "start": 1560,
+      "start": 1559,
       "end": 1600
     },
     {
