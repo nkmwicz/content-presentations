@@ -358,8 +358,12 @@
           "color": "black"
         },
         {
-          "text": "The core of the network was stable throughout the sixteenth century: England, Swiss Cantons, Venice, Rome, and the Ottoman Empire.",
-          "color": "lightgrey"
+          "text": "The core of the network was stable throughout the sixteenth century:",
+          "color": "lightgrey",
+          "children": [{
+            "text": "England, Swiss Cantons, Venice, Rome, and the Ottoman Empire.",
+            "color": "lightgrey"
+          }]
         },
         {
           "text": "The network was remarkably southern and Mediterranean.",
@@ -379,7 +383,11 @@
         },
         {
           "text": "The core of the network was stable throughout the sixteenth century: England, Swiss Cantons, Venice, Rome, and the Ottoman Empire.",
-          "color": "black"
+          "color": "black",
+          "children": [{
+            "text": "England, Swiss Cantons, Venice, Rome, and the Ottoman Empire.",
+            "color": "black"
+          }]
         },
         {
           "text": "The network was remarkably southern and Mediterranean.",
@@ -399,7 +407,11 @@
         },
         {
           "text": "The core of the network was stable throughout the sixteenth century: England, Swiss Cantons, Venice, Rome, and the Ottoman Empire.",
-          "color": "lightgrey"
+          "color": "lightgrey",
+          "children": [{
+            "text": "England, Swiss Cantons, Venice, Rome, and the Ottoman Empire.",
+            "color": "lightgrey"
+          }]
         },
         {
           "text": "The network was remarkably southern and Mediterranean.",
