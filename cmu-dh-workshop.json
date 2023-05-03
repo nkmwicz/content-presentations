@@ -83,6 +83,31 @@
         "description": "image via GISLounge.com",
         "alt": "Image of GIS tools"
       }
+    },
+    {
+      "number": 2.1,
+      "slide": true,
+      "split": true,
+      "title": "Ways of Thinking about Information?",
+      "text": [
+        {
+          "text": "All information is data: Let's give it structure",
+          "color": "lightgrey"
+        },
+        {
+          "text": "(Almost) All data is spatial",
+          "color": "black"
+        },
+        {
+          "text": "All information is data",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://www.bisok.com/wp-content/uploads/2021/10/what-is-unstructured-data.png",
+        "description": "image via bisok.com",
+        "alt": "image of structured vs unstructured data"
+      }
     }
   ],
   "ideas": [
