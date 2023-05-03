@@ -88,19 +88,69 @@
       "number": 2.1,
       "slide": true,
       "split": true,
-      "title": "Ways of Thinking about Information?",
+      "title": "Thinking about Information Spatially",
       "text": [
         {
           "text": "All information is data: Let's give it structure",
           "color": "lightgrey"
         },
         {
-          "text": "(Almost) All data is spatial",
+          "text": "(Almost) All data is (or can be) spatial",
           "color": "black"
         },
         {
-          "text": "All information is data",
+          "text": "How can we make our data spatial?",
           "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://www.bisok.com/wp-content/uploads/2021/10/what-is-unstructured-data.png",
+        "description": "image via bisok.com",
+        "alt": "image of structured vs unstructured data"
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "split": true,
+      "title": "Thinking about Information Spatially",
+      "text": [
+        {
+          "text": "All information is data: Let's give it structure",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "(Almost) All data is (or can be) spatial",
+          "color": "lightgrey"
+        },
+        {
+          "text": "How can we make our data spatial?",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://www.bisok.com/wp-content/uploads/2021/10/what-is-unstructured-data.png",
+        "description": "image via bisok.com",
+        "alt": "image of structured vs unstructured data"
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "split": true,
+      "title": "Thinking about Information Spatially",
+      "text": [
+        {
+          "text": "All information is data: Let's give it structure",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "(Almost) All data is (or can be) spatial",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How can we make our data spatial?",
+          "color": "lightgrey"
         }
       ],
       "image": {
