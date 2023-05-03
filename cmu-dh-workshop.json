@@ -1,5 +1,5 @@
 {
-  "images": [],
+  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png"],
   "slides": [
     {
       "number": 0.1,
@@ -10,7 +10,7 @@
       "byLine": "Nathan Michalewicz"
     },
     { 
-      "number": 1.0,
+      "number": 1.1,
       "slide": true,
       "split": true,
       "title": "What are the spatial humanities?",
@@ -33,6 +33,61 @@
         "description": "",
         "alt": ""
       }
+    },
+    { 
+      "number": 1.2,
+      "slide": true,
+      "split": true,
+      "title": "What are the spatial humanities?",
+      "text": [
+        {
+          "text": "A way of thinking about information",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Organizing Data Spatially",
+          "color": "lightgrey"
+        },
+        {
+          "text": "A Toolset for Visualizing Data",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png",
+        "description": "Image via DBStephens.com",
+        "alt": "image of five map layers"
+      }
+    },
+    { 
+      "number": 1.3,
+      "slide": true,
+      "split": true,
+      "title": "What are the spatial humanities?",
+      "text": [
+        {
+          "text": "A way of thinking about information",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Organizing Data Spatially",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "A Toolset for Visualizing Data",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png",
+        "description": "image via GISLounge.com",
+        "alt": "Image of GIS tools"
+      }
+    }
+  ],
+  "ideas": [
+    {
+      "1": ""
     }
   ]
 }
