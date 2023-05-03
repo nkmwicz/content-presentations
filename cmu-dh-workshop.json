@@ -1,0 +1,38 @@
+{
+  "images": [],
+  "slides": [
+    {
+      "number": 0.1,
+      "slide": true,
+      "intro": true,
+      "title": "The Spatial Humanities",
+      "subTitle": "Mapping Humanities Data",
+      "byLine": "Nathan Michalewicz"
+    },
+    { 
+      "number": 1.0,
+      "slide": true,
+      "split": true,
+      "title": "What are the spatial humanities?",
+      "text": [
+        {
+          "text": "A way of thinking about information",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Organizing Data Spatially",
+          "color": "black"
+        },
+        {
+          "text": "A Toolset for Visualizing Data",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "",
+        "description": "",
+        "alt": ""
+      }
+    }
+  ]
+}
