@@ -457,6 +457,81 @@
         "description": "whgazetteer.org",
         "alt": "Image of the World Historical Gazetteer website"
       }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "split" : true,
+      "title": "Organizing Data Spatially",
+      "text": [
+        {
+          "text": "Is My Question Placial or Spatial?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Find the point locations for your data: latitude and longitude",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Build a structured data format: a CSV file",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png",
+        "description": "whgazetteer.org",
+        "alt": "Image of the World Historical Gazetteer website"
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "split" : true,
+      "title": "Organizing Data Spatially",
+      "text": [
+        {
+          "text": "Is My Question Placial or Spatial?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Find the point locations for your data: latitude and longitude",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Build a structured data format: a CSV file",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png",
+        "description": "whgazetteer.org",
+        "alt": "Image of the World Historical Gazetteer website"
+      }
+    },
+    {
+      "number": 4.1,
+      "slide": true,
+      "split" : true,
+      "title": "The Spatial Humanities Toolset",
+      "text": [
+        {
+          "text": "Some Basic Tools for Spatial Data",
+          "color": "lightgrey"
+        },
+        {
+          "text": "More Advanced Visualization Tools: QGIS and ArcGIS",
+          "color": "black"
+        },
+        {
+          "text": "Web Mapping Tools = Learning JavaScript Programming",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png",
+        "description": "whgazetteer.org",
+        "alt": "Image of the World Historical Gazetteer website"
+      }
     }
   ],
   "ideas": [
