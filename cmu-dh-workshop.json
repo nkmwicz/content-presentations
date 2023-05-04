@@ -1,5 +1,5 @@
 {
-  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg"],
+  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg", "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png", "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png", "https://nathanmichalewicz.org/omeka/files/original/bd759ea0d1b38dc561bef4c972ff16ce.png"],
   "slides": [
     {
       "number": 0.1,
@@ -107,6 +107,81 @@
         "image": "https://www.bisok.com/wp-content/uploads/2021/10/what-is-unstructured-data.png",
         "description": "image via bisok.com",
         "alt": "image of structured vs unstructured data"
+      }
+    },
+    {
+      "number": 2.2,
+      "slide": true,
+      "split": true,
+      "title": "Thinking about Information Spatially",
+      "text": [
+        {
+          "text": "All information is data: Let's give it structure",
+          "color": "lightgrey"
+        },
+        {
+          "text": "(Almost) All data is (or can be) spatial",
+          "color": "black"
+        },
+        {
+          "text": "How can we make our data spatial?",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png",
+        "description": "example of unstructured data",
+        "alt": "image of example of unstructured data, a text file"
+      }
+    },
+    {
+      "number": 2.3,
+      "slide": true,
+      "split": true,
+      "title": "Thinking about Information Spatially",
+      "text": [
+        {
+          "text": "All information is data: Let's give it structure",
+          "color": "lightgrey"
+        },
+        {
+          "text": "(Almost) All data is (or can be) spatial",
+          "color": "black"
+        },
+        {
+          "text": "How can we make our data spatial?",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png",
+        "description": "example of semi-structured data",
+        "alt": "image of example of semi-structured data, a JSON file"
+      }
+    },
+    {
+      "number": 2.4,
+      "slide": true,
+      "split": true,
+      "title": "Thinking about Information Spatially",
+      "text": [
+        {
+          "text": "All information is data: Let's give it structure",
+          "color": "lightgrey"
+        },
+        {
+          "text": "(Almost) All data is (or can be) spatial",
+          "color": "black"
+        },
+        {
+          "text": "How can we make our data spatial?",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/bd759ea0d1b38dc561bef4c972ff16ce.png",
+        "description": "example of structured data",
+        "alt": "image of example of structured data, a CSV"
       }
     },
     {
