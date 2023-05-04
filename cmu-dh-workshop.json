@@ -1,5 +1,5 @@
 {
-  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg", "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png", "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png", "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png", "https://images.law.com/contrib/content/uploads/sites/397/2020/03/GPS-Tracking-Article-202003121332.jpg", "https://nathanmichalewicz.org/omeka/files/original/0cf87272ff98381da119cc75f64719ea.png", "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png", "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png", "http://www.gcpvd.org/wp-content/uploads/2011/08/pvd-subway.jpg"],
+  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg", "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png", "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png", "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png", "https://images.law.com/contrib/content/uploads/sites/397/2020/03/GPS-Tracking-Article-202003121332.jpg", "https://nathanmichalewicz.org/omeka/files/original/0cf87272ff98381da119cc75f64719ea.png", "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png", "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png", "http://www.gcpvd.org/wp-content/uploads/2011/08/pvd-subway.jpg", "https://cdn.thinglink.me/api/image/791798980768956416/1024/10/scaletowidth/0/0/1/1/false/true?wait=true", "https://dimpapp.gr/wp-content/uploads/2017/11/google-maps-logo.png", "https://nathanmichalewicz.org/omeka/files/original/bdcad3812b9174484dbc1ba112a9fec9.png"],
   "slides": [
     {
       "number": 0.1,
@@ -294,7 +294,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Find the point data for your data: latitude and longitude",
+          "text": "Find the point locations for your data: latitude and longitude",
           "color": "black"
         },
         {
@@ -319,7 +319,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Find the point data for your data: latitude and longitude",
+          "text": "Find the point locations for your data: latitude and longitude",
           "color": "black"
         },
         {
@@ -344,7 +344,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Find the point data for your data: latitude and longitude",
+          "text": "Find the point locations for your data: latitude and longitude",
           "color": "black"
         },
         {
@@ -369,7 +369,7 @@
           "color": "lightgrey"
         },
         {
-          "text": "Find the point data for your data: latitude and longitude",
+          "text": "Find the point locations for your data: latitude and longitude",
           "color": "black"
         },
         {
@@ -381,6 +381,81 @@
         "image": "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png",
         "description": "example of a spatial map of Florentine Census Data",
         "alt": "example image of a placial map of Florentine Census Data"
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "split" : true,
+      "title": "Organizing Data Spatially",
+      "text": [
+        {
+          "text": "Is My Question Placial or Spatial?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Find the point locations for your data: latitude and longitude",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Build a structured data format: a CSV file",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://cdn.thinglink.me/api/image/791798980768956416/1024/10/scaletowidth/0/0/1/1/false/true?wait=true",
+        "description": "latitude and longitude",
+        "alt": "image of longitude and latitude on a map"
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "split" : true,
+      "title": "Organizing Data Spatially",
+      "text": [
+        {
+          "text": "Is My Question Placial or Spatial?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Find the point locations for your data: latitude and longitude",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Build a structured data format: a CSV file",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://dimpapp.gr/wp-content/uploads/2017/11/google-maps-logo.png",
+        "description": "Google Maps",
+        "alt": "example of the Google Maps logo"
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "split" : true,
+      "title": "Organizing Data Spatially",
+      "text": [
+        {
+          "text": "Is My Question Placial or Spatial?",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Find the point locations for your data: latitude and longitude",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Build a structured data format: a CSV file",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/bdcad3812b9174484dbc1ba112a9fec9.png",
+        "description": "whgazetteer.org",
+        "alt": "Image of the World Historical Gazetteer website"
       }
     }
   ],
