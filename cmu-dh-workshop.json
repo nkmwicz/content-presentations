@@ -1,5 +1,5 @@
 {
-  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg", "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png", "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png", "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png"],
+  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg", "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png", "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png", "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png", "https://images.law.com/contrib/content/uploads/sites/397/2020/03/GPS-Tracking-Article-202003121332.jpg"],
   "slides": [
     {
       "number": 0.1,
@@ -204,7 +204,7 @@
         }
       ],
       "image": {
-        "image": "https://www.bisok.com/wp-content/uploads/2021/10/what-is-unstructured-data.png",
+        "image": "https://images.law.com/contrib/content/uploads/sites/397/2020/03/GPS-Tracking-Article-202003121332.jpg",
         "description": "image via bisok.com",
         "alt": "image of structured vs unstructured data"
       }
