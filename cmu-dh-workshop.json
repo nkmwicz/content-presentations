@@ -183,59 +183,8 @@
         "description": "example of structured data",
         "alt": "image of example of structured data, a CSV"
       }
-    },
-    {
+    },    {
       "number": 2.5,
-      "slide": true,
-      "split": true,
-      "title": "Thinking about Information Spatially",
-      "text": [
-        {
-          "text": "All information is data: Let's give it structure",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "(Almost) All data is (or can be) spatial",
-          "color": "lightgrey"
-        },
-        {
-          "text": "How can we make our data spatial?",
-          "color": "black"
-        }
-      ],
-      "image": {
-        "image": "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png",
-        "description": "Spatial Analysis of 16th Century Florentine Census Data vi Decima",
-        "alt": "image of map of 16th century Florence Census Data"
-      }
-    },
-    {
-      "number": 2.6,
-      "slide": true,
-      "split": true,
-      "title": "Thinking about Information Spatially",
-      "text": [
-        {
-          "text": "All information is data: Let's give it structure",
-          "color": "darkslategrey"
-        },
-        {
-          "text": "(Almost) All data is (or can be) spatial",
-          "color": "lightgrey"
-        },
-        {
-          "text": "How can we make our data spatial?",
-          "color": "black"
-        }
-      ],
-      "image": {
-        "image": "https://nathanmichalewicz.org/omeka/files/original/0cf87272ff98381da119cc75f64719ea.png",
-        "description": "Spatial Literary Analysis",
-        "alt": "image of map with points related to literary analysis"
-      }
-    },
-    {
-      "number": 2.7,
       "slide": true,
       "split": true,
       "title": "Thinking about Information Spatially",
@@ -257,6 +206,56 @@
         "image": "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png",
         "description": "Spatial Analysis of Ambassadors",
         "alt": "image of map with points related to locations of French ambassadors."
+      }
+    },
+    {
+      "number": 2.6,
+      "slide": true,
+      "split": true,
+      "title": "Thinking about Information Spatially",
+      "text": [
+        {
+          "text": "All information is data: Let's give it structure",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "(Almost) All data is (or can be) spatial",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How can we make our data spatial?",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png",
+        "description": "Spatial Analysis of 16th Century Florentine Census Data vi Decima",
+        "alt": "image of map of 16th century Florence Census Data"
+      }
+    },
+    {
+      "number": 2.7,
+      "slide": true,
+      "split": true,
+      "title": "Thinking about Information Spatially",
+      "text": [
+        {
+          "text": "All information is data: Let's give it structure",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "(Almost) All data is (or can be) spatial",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How can we make our data spatial?",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/0cf87272ff98381da119cc75f64719ea.png",
+        "description": "Spatial Literary Analysis",
+        "alt": "image of map with points related to literary analysis"
       }
     },
     {
