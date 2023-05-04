@@ -1,5 +1,5 @@
 {
-  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg", "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png", "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png", "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png", "https://images.law.com/contrib/content/uploads/sites/397/2020/03/GPS-Tracking-Article-202003121332.jpg", "https://nathanmichalewicz.org/omeka/files/original/0cf87272ff98381da119cc75f64719ea.png", "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png", "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png"],
+  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg", "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png", "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png", "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png", "https://images.law.com/contrib/content/uploads/sites/397/2020/03/GPS-Tracking-Article-202003121332.jpg", "https://nathanmichalewicz.org/omeka/files/original/0cf87272ff98381da119cc75f64719ea.png", "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png", "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png", "http://www.gcpvd.org/wp-content/uploads/2011/08/pvd-subway.jpg"],
   "slides": [
     {
       "number": 0.1,
@@ -281,6 +281,106 @@
         "image": "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png",
         "description": "Spatial Analysis of Ambassadors",
         "alt": "image of map with points related to locations of French ambassadors."
+      }
+    },
+    {
+      "number": 3.1,
+      "slide": true,
+      "split" : true,
+      "title": "Organizing Data Spatially",
+      "text": [
+        {
+          "text": "Is My Question Placial or Spatial?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Find the point data for your data: latitude and longitude",
+          "color": "black"
+        },
+        {
+          "text": "Build a structured data format: a CSV file",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "http://www.gcpvd.org/wp-content/uploads/2011/08/pvd-subway.jpg",
+        "description": "example of a placial map",
+        "alt": "example image of a placial map of the subway network"
+      }
+    },
+    {
+      "number": 3.2,
+      "slide": true,
+      "split" : true,
+      "title": "Organizing Data Spatially",
+      "text": [
+        {
+          "text": "Is My Question Placial or Spatial?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Find the point data for your data: latitude and longitude",
+          "color": "black"
+        },
+        {
+          "text": "Build a structured data format: a CSV file",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png",
+        "description": "example of a placial map of ambassadors",
+        "alt": "example image of a placial map of ambassadors during the sixteenth century."
+      }
+    },
+    {
+      "number": 3.3,
+      "slide": true,
+      "split" : true,
+      "title": "Organizing Data Spatially",
+      "text": [
+        {
+          "text": "Is My Question Placial or Spatial?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Find the point data for your data: latitude and longitude",
+          "color": "black"
+        },
+        {
+          "text": "Build a structured data format: a CSV file",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/04ad48072545e9646a960c6bca296900.png",
+        "description": "example of a spatial map from the Gossamernetwork.com",
+        "alt": "example image of a spatial map of the gossamernetwork.com"
+      }
+    },
+    {
+      "number": 3.4,
+      "slide": true,
+      "split" : true,
+      "title": "Organizing Data Spatially",
+      "text": [
+        {
+          "text": "Is My Question Placial or Spatial?",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Find the point data for your data: latitude and longitude",
+          "color": "black"
+        },
+        {
+          "text": "Build a structured data format: a CSV file",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png",
+        "description": "example of a spatial map of Florentine Census Data",
+        "alt": "example image of a placial map of Florentine Census Data"
       }
     }
   ],
