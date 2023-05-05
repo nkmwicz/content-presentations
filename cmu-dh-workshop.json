@@ -1,5 +1,5 @@
 {
-  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg", "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png", "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png", "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png", "https://images.law.com/contrib/content/uploads/sites/397/2020/03/GPS-Tracking-Article-202003121332.jpg", "https://nathanmichalewicz.org/omeka/files/original/0cf87272ff98381da119cc75f64719ea.png", "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png", "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png", "http://www.gcpvd.org/wp-content/uploads/2011/08/pvd-subway.jpg", "https://cdn.thinglink.me/api/image/791798980768956416/1024/10/scaletowidth/0/0/1/1/false/true?wait=true", "https://dimpapp.gr/wp-content/uploads/2017/11/google-maps-logo.png", "https://nathanmichalewicz.org/omeka/files/original/bdcad3812b9174484dbc1ba112a9fec9.png", "http://hdlab.stanford.edu/palladio/assets/map-view.jpg", "https://comohow.net/wp-content/uploads/2020/07/como-usar-QGIS.png"],
+  "images": ["https://www.dbstephens.com/wp-content/uploads/2018/02/GIS-768x1168.png", "https://www.gislounge.com/wp-content/uploads/2020/12/webgis-logos.png", "https://www.alithya.com/hubfs/Imported_Blog_Media/Blog_Achitecture-2.jpg", "https://nathanmichalewicz.org/omeka/files/original/7db43042e786cb9618b6d44bd86354a1.png", "https://nathanmichalewicz.org/omeka/files/original/c0735c471cf790e2c2ac81fc50680aa4.png", "https://nathanmichalewicz.org/omeka/files/original/7916ec4924c9721985e10a8b310a483f.png", "https://images.law.com/contrib/content/uploads/sites/397/2020/03/GPS-Tracking-Article-202003121332.jpg", "https://nathanmichalewicz.org/omeka/files/original/0cf87272ff98381da119cc75f64719ea.png", "https://nathanmichalewicz.org/omeka/files/original/3ed466458d43f3334333a14cd24ba441.png", "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png", "http://www.gcpvd.org/wp-content/uploads/2011/08/pvd-subway.jpg", "https://cdn.thinglink.me/api/image/791798980768956416/1024/10/scaletowidth/0/0/1/1/false/true?wait=true", "https://dimpapp.gr/wp-content/uploads/2017/11/google-maps-logo.png", "https://nathanmichalewicz.org/omeka/files/original/bdcad3812b9174484dbc1ba112a9fec9.png", "http://hdlab.stanford.edu/palladio/assets/map-view.jpg", "https://comohow.net/wp-content/uploads/2020/07/como-usar-QGIS.png", "https://i0.wp.com/themapden.co.uk/wp-content/uploads/2017/07/ArcGISOnline_examplle.png?ssl=1"],
   "slides": [
     {
       "number": 0.1,
@@ -553,9 +553,9 @@
         }
       ],
       "image": {
-        "image": "https://comohow.net/wp-content/uploads/2020/07/como-usar-QGIS.png",
-        "description": "qgis.org",
-        "alt": "Image of QGIS map."
+        "image": "https://i0.wp.com/themapden.co.uk/wp-content/uploads/2017/07/ArcGISOnline_examplle.png?ssl=1",
+        "description": "arcgisonline.com",
+        "alt": "Image of ArcGIS Online map."
       }
     },
     {
