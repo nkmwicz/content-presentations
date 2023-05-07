@@ -484,7 +484,7 @@
       }
     },
     {
-      "number": 3.4,
+      "number": 3.5,
       "slide": true,
       "split" : true,
       "title": "Organizing Data Spatially",
@@ -525,6 +525,10 @@
         {
           "text": "Web Mapping Tools = Learning JavaScript Programming",
           "color": "black"
+        },
+        {
+          "text": "How Do I Learn this Stuff?",
+          "color": "black"
         }
       ],
       "image": {
@@ -559,7 +563,32 @@
       }
     },
     {
-      "number": 4.2,
+      "number": 4.3,
+      "slide": true,
+      "split" : true,
+      "title": "The Spatial Humanities Toolset",
+      "text": [
+        {
+          "text": "Some Basic Tools for Spatial Data",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "More Advanced Visualization Tools: QGIS and ArcGIS",
+          "color": "lightgrey"
+        },
+        {
+          "text": "Web Mapping Tools = Learning JavaScript Programming",
+          "color": "black"
+        }
+      ],
+      "image": {
+        "image": "https://comohow.net/wp-content/uploads/2020/07/como-usar-QGIS.png",
+        "description": "qgis.org",
+        "alt": "Image of QGIS map."
+      }
+    },
+    {
+      "number": 4.4,
       "slide": true,
       "split" : true,
       "title": "The Spatial Humanities Toolset",
