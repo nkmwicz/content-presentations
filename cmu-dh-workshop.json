@@ -649,8 +649,38 @@
       ],
       "image": {
         "image": "https://wallsdesk.com/wp-content/uploads/2016/06/youtube-logo.jpg",
-        "description": "qgis.org",
-        "alt": "Image of QGIS map."
+        "description": "youtube.org",
+        "alt": "Image YouTube logo."
+      }
+    },
+    {
+      "number": 5.1,
+      "slide": true,
+      "split" : true,
+      "title": "Why Use Spatial Humanities?",
+      "subTitle": "Find Patterns at Multiple Scales.",
+      "text": [
+        {
+          "text": "Some Basic Tools for Spatial Data",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "More Advanced Visualization Tools: QGIS and ArcGIS",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "Web Mapping Tools = Learning JavaScript Programming",
+          "color": "darkslategrey"
+        },
+        {
+          "text": "How Do I Learn this Stuff?",
+          "color": "lightgrey"
+        }
+      ],
+      "image": {
+        "image": "https://wallsdesk.com/wp-content/uploads/2016/06/youtube-logo.jpg",
+        "description": "youtube.org",
+        "alt": "Image YouTube logo."
       }
     }
   ],
