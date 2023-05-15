@@ -620,8 +620,8 @@
       ],
       "image": {
         "image": "https://www.geoapify.com/static/map-libraries-9a161af171430aec93b6017dfafeb5df.png",
-        "description": "qgis.org",
-        "alt": "Image of QGIS map."
+        "description": "Web Mapping Options",
+        "alt": "Image of web mapping options leaflet, mapbox, and open layers."
       }
     },
     {
