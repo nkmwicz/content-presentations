@@ -675,11 +675,11 @@
         "text": "Visualize Change over Time with Range Sliders",
         "color": "black"
       }],
-      "image": [{
+      "image": {
         "image": "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png",
         "description": "100 Years of Data in One map",
         "alt": "Image of French ambassadors abroad from 1500 to 1600."
-      }]
+      }
     },
     {
       "number": 5.2,
@@ -703,11 +703,11 @@
         "text": "Visualize Change over Time with Range Sliders",
         "color": "black"
       }],
-      "image": [{
+      "image": {
         "image": "https://nathanmichalewicz.org/omeka/files/original/78df19dda13956c653f6c5dbf4cef179.png",
         "description": "100 Years of Data in One map",
         "alt": "Image of French ambassadors abroad from 1500 to 1600."
-      }]
+      }
     },
     {
       "number": 5.3,
@@ -731,11 +731,11 @@
         "text": "Visualize Change over Time with Range Sliders",
         "color": "black"
       }],
-      "image": [{
+      "image": {
         "image": "https://1.bp.blogspot.com/-EikJvvEdKUY/XtRp0G65dNI/AAAAAAAAB8A/H0xp9G2KreUZ9kwdN0QQxWkjQ6ffYzZ6wCK4BGAsYHg/qgis_coronavirus_timeseries2.gif",
         "description": "Visualizing the Coronavirus Spread",
         "alt": "Gif the spread of coronavirus in 2020."
-      }]
+      }
     },
     {
       "number": 5.4,
@@ -759,11 +759,11 @@
         "text": "Visualize Change over Time with Range Sliders",
         "color": "lightgrey"
       }],
-      "image": [{
+      "image": {
         "image": "https://user-images.githubusercontent.com/6873202/81438390-c0372380-917d-11ea-8c50-e3b25923bdc7.gif",
         "description": "Range Sliders Allow Visualizing Cross-Sections of Time.",
         "alt": "Gif of map showing paths over time."
-      }]
+      }
     }
   ],
   "ideas": [
